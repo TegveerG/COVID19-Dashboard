@@ -7,4 +7,3 @@ plotly
 folium
 matplotlib
 numpy
-warnings
